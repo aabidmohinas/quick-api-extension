@@ -1,1 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 320px;
+  padding: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 6px;
+  margin-bottom: 8px;
+}
+
+ul li {
+  list-style: none;
+  padding: 6px;
+  border: 1px solid #ddd;
+  margin-bottom: 6px;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+pre {
+  background: #f7f7f7;
+  padding: 6px;
+  overflow-x: auto;
+}
+
+button {
+  width: 100%;
+  padding: 6px;
+  margin-top: 4px;
+}
 
