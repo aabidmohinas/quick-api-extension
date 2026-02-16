@@ -1,1 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Quick API Explorer",
+  "description": "Instant access to useful public APIs without digging through docs.",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
 
